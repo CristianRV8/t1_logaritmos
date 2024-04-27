@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.s": "ca65",
+        "utility": "cpp"
+    }
+}
